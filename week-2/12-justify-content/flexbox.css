@@ -7,3 +7,7 @@
 }
 
 /* Add your own CSS code below */
+.countries--second {
+  flex-direction: row;
+  justify-content: space-around;
+}
